@@ -4,4 +4,8 @@ public class HelloWorld {
     // just to press on!         work2
     // doing some work!          work3
 
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+
 }
